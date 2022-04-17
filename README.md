@@ -1,5 +1,5 @@
 # Dio-desafio-start-woman
-Desafio de projeto
+Repositório para o desafio de projeto
 
 ## Links úteis
 [Sintaxe Basíca  Markdown](https://www.markdownguide.org/basic-syntax/)
